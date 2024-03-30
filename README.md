@@ -8,7 +8,7 @@
 
 - 🔭 Actualmente estoy trabajando en proyectos emocionantes en Node.js, PhP y mucho más.
 - 🌱 Me encanta explorar nuevas tecnologías y expandir mis habilidades constantemente.
-- 📫 Encuéntrame en Discord como [Dars#1234](https://discord.com/users/1066121330161897572).
+- 📫 Encuéntrame en Discord como [dars_xd](https://discord.com/users/1066121330161897572).
 
 ## Mis Proyectos Destacados
 
