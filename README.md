@@ -1,6 +1,8 @@
 # ¡Hola! Soy Dars 👋
 
-![Banner](https://cdn.pfps.gg/banners/7961-rinrin.gif)
+<p align="center">
+  <img src="https://cdn.pfps.gg/banners/7961-rinrin.gif" width="600" height="200"/>
+</p>
 
 ¡Bienvenido/a a mi perfil! Soy Dars, co-fundador de Dead Destroyers, donde exploramos las fronteras de la tecnología y la creatividad. Mi pasión radica en programar y crear soluciones innovadoras que trasciendan los límites de lo convencional.
 
@@ -16,11 +18,15 @@
 
 ## Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Bydars&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bydars&show_icons=true&theme=radical" width="450"/>
+</p>
 
 ## Lenguajes y Herramientas
 
-[![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Bydars&layout=compact&theme=radical)](https://github.com/Bydars)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bydars&layout=compact&theme=radical" width="350"/>
+</p>
 
 ## ¡Conéctate Conmigo!
 
@@ -31,6 +37,4 @@
 <p align="center">
   <img src="https://github.com/Bydars/Bydars/raw/main/assets/giphy.gif" width="200" height="200"/>
 </p>
-
-
 
