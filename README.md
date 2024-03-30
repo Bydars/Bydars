@@ -28,9 +28,10 @@
 
 ## Perfil de Usuario de Discord
 
-![Usuario de Discord](https://lanyard-profile-readme.vercel.app/api/1066121330161897572)
+[![Usuario de Discord](https://lanyard-profile-readme.vercel.app/api/1066121330161897572)](https://discord.com/users/1066121330161897572)
 
 ## ¡Conéctate Conmigo!
 
 ¡Vamos a construir el futuro juntos! No dudes en contactarme en Discord para discutir ideas, colaboraciones o simplemente para charlar. 😄✨
+
 
