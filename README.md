@@ -6,7 +6,7 @@
 
 ## Acerca de mí
 
-- 🔭 Actualmente estoy trabajando en proyectos emocionantes en Node.js, PhP y mucho más.
+- 🔭 Actualmente estoy trabajando en proyectos emocionantes en Node.js, PHP y mucho más.
 - 🌱 Me encanta explorar nuevas tecnologías y expandir mis habilidades constantemente.
 - 📫 Encuéntrame en Discord como [dars_xd](https://discord.com/users/1066121330161897572).
 
@@ -24,7 +24,7 @@
 
 ## Actividad de Discord
 
-[![Discord Activity](https://discord.com/api/guilds/{1221968318878056538}/widget.png?style=banner4)](https://discord.com/users/1066121330161897572)
+[![Discord Activity](https://discord.com/api/guilds/1221968318878056538/widget.png?style=banner4)](https://discord.com/users/1066121330161897572)
 
 ## Perfil de Usuario de Discord
 
@@ -33,5 +33,3 @@
 ## ¡Conéctate Conmigo!
 
 ¡Vamos a construir el futuro juntos! No dudes en contactarme en Discord para discutir ideas, colaboraciones o simplemente para charlar. 😄✨
-
-
