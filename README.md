@@ -37,4 +37,3 @@
 <p align="center">
   <img src="https://github.com/Bydars/Bydars/raw/main/assets/giphy.gif" width="200" height="200"/>
 </p>
-
