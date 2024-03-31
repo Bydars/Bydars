@@ -1,15 +1,11 @@
-# ¡Saludos! Soy Dars 👋
-
 <p align="center">
   <img src="https://cdn.pfps.gg/banners/7961-rinrin.gif" width="800" height="300"/>
 </p>
 
-¡Bienvenido/a a mi perfil! Soy Dars, el co-fundador de Dead Destroyers, donde exploramos los límites de la tecnología y la creatividad. Mi pasión radica en programar y crear soluciones innovadoras que desafíen los paradigmas establecidos.
-
 ## Sobre mí 🌌
 
 - 🚀 Constructor de realidades alternativas a través de proyectos intergalácticos en Node.js, Go, Quantum Computing y más.
-- 🌌 Navegante intrépido del cosmos digital, explorando los rincones más oscuros del ciberespacio en busca de inspiración.
+- 🌌 
 - 📡 Encuentra mi señal en el éter cuántico de Discord como [dars_xd](https://discord.com/users/1066121330161897572).
 
 ## Mis Proyectos Estelares ⚡️
