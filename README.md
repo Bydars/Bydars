@@ -4,17 +4,17 @@
   <img src="https://cdn.pfps.gg/banners/7961-rinrin.gif" width="600" height="200"/>
 </p>
 
-¡Bienvenido/a a mi perfil! Soy Dars, co-fundador de Dead Destroyers, donde exploramos las fronteras de la tecnología y la creatividad. Mi pasión radica en programar y crear soluciones innovadoras que trasciendan los límites de lo convencional.
+¡Bienvenido/a a mi perfil! Soy Dars, el co-fundador de Dead Destroyers, donde exploramos los límites de la tecnología y la creatividad. Mi pasión radica en programar y crear soluciones innovadoras que desafíen los paradigmas establecidos.
 
 ## Sobre mí
 
-- 🚀 Forjador de la próxima era en proyectos intergalácticos de Node.js, Go, Quantum Computing y más.
-- 🌌 Navegante audaz del Cosmos digital, explorando agujeros negros de tecnología y horizontes de innovación.
-- 📡 Accede a mi canal cuántico en Discord como [dars_xd](https://discord.com/users/1066121330161897572).
+- 🚀 Constructor de realidades alternativas a través de proyectos intergalácticos en Node.js, Go, Quantum Computing y más.
+- 🌌 Navegante intrépido del cosmos digital, explorando los rincones más oscuros del ciberespacio en busca de inspiración.
+- 📡 Encuentra mi señal en el éter cuántico de Discord como [dars_xd](https://discord.com/users/1066121330161897572).
 
 ## Mis Proyectos Estelares
 
-- ⚡️ [Xslay Hosting](https://github.com/Xslay-Hosting/xslay): Conectando galaxias creativas en un universo de colaboración.
+- ⚡️ [Xslay Hosting](https://github.com/Xslay-Hosting/xslay): Uniendo mentes creativas en una red galáctica de colaboración.
 
 ## Estadísticas de GitHub
 
@@ -30,7 +30,7 @@
 
 ## ¡Conéctate Conmigo!
 
-¡Juntos, desbloquearemos los secretos del Multiverso! Contáctame en Discord para sintonizar con ideas disruptivas, travesías intergalácticas o simplemente para charlar sobre el futuro. 😄✨
+¡Vamos a trascender las fronteras de la realidad! Contáctame en Discord para explorar ideas fuera de este mundo, aventuras interdimensionales o simplemente para charlar sobre el futuro. 😄✨
 
 ---
 
