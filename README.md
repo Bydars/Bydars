@@ -8,13 +8,13 @@
 
 ## Sobre mí
 
-- 🚀 Pionero en proyectos disruptivos en Node.js, Go, Quantum Computing y más.
-- 🌌 Explorador intrépido de tecnologías emergentes y tendencias futuristas.
-- 📡 Encuéntrame en Discord como [dars_xd](https://discord.com/users/1066121330161897572).
+- 🚀 Forjador de la próxima era en proyectos intergalácticos de Node.js, Go, Quantum Computing y más.
+- 🌌 Navegante audaz del Cosmos digital, explorando agujeros negros de tecnología y horizontes de innovación.
+- 📡 Accede a mi canal cuántico en Discord como [dars_xd](https://discord.com/users/1066121330161897572).
 
 ## Mis Proyectos Estelares
 
-- ⚡️ [Xslay Hosting](https://github.com/Xslay-Hosting/xslay): Enlazando mentes creativas a nivel global.
+- ⚡️ [Xslay Hosting](https://github.com/Xslay-Hosting/xslay): Conectando galaxias creativas en un universo de colaboración.
 
 ## Estadísticas de GitHub
 
@@ -30,12 +30,11 @@
 
 ## ¡Conéctate Conmigo!
 
-¡Juntos, forjaremos el futuro! Contáctame en Discord para explorar ideas innovadoras, colaboraciones de vanguardia o simplemente para conversar. 😄✨
+¡Juntos, desbloquearemos los secretos del Multiverso! Contáctame en Discord para sintonizar con ideas disruptivas, travesías intergalácticas o simplemente para charlar sobre el futuro. 😄✨
 
 ---
 
 <p align="center">
   <img src="https://github.com/Bydars/Bydars/raw/main/assets/giphy.gif" width="200" height="200"/>
 </p>
-
 
