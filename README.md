@@ -4,13 +4,13 @@
 
 ## Sobre mí 🌌
 
-- 🚀 Constructor de realidades alternativas a través de proyectos intergalácticos en Node.js, Go, Quantum Computing y más.
-- 🌌 
-- 📡 Encuentra mi señal en el éter cuántico de Discord como [dars_xd](https://discord.com/users/1066121330161897572).
+- 🚀 Soy un backend developer
+- 🌌 aprendiendo frontend 
+- 📡 aparezco en discord como [dars_xd](https://discord.com/users/1066121330161897572).
 
 ## Mis Proyectos Estelares ⚡️
 
-- [Xslay Hosting](https://github.com/Xslay-Hosting/xslay): Uniendo mentes creativas en una red galáctica de colaboración.
+- [Xslay Hosting](https://github.com/Xslay-Hosting/xslay): 
 
 ## Estadísticas de GitHub 📈
 
@@ -25,8 +25,6 @@
 </p>
 
 ## ¡Conéctate Conmigo! 🚀
-
-¡Vamos a trascender las fronteras de la realidad! Contáctame en Discord para explorar ideas fuera de este mundo, aventuras interdimensionales o simplemente para charlar sobre el futuro. 😄✨
 
 ---
 
