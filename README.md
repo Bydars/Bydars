@@ -6,11 +6,11 @@
 
 - 🚀 Soy un backend developer
 - 🌌 aprendiendo frontend 
-- 📡 aparezco en discord como [dars_xd](https://discord.com/users/1066121330161897572).
+- 📡 aparezco en discord como [dars_xd](https://discord.com/users/1160636567719788645).
 
 ## Mis Proyectos Estelares ⚡️
 
-- [Xslay Hosting](https://github.com/Xslay-Hosting/xslay): 
+- [Fucktos.lol](https://fucktos.lol): 
 
 ## Estadísticas de GitHub 📈
 
